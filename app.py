@@ -1,3 +1,4 @@
+# KR2: Ivanov
 import os
 import socket
 
